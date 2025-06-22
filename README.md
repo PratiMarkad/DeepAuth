@@ -18,6 +18,6 @@ To run the web application on Windows, Linux, or Mac, follow these steps:
    screenshots/pdfDetection.png" alt="Image description" width="60%">
 
 # Contributors
-Pratibha Markad
-Atul Ubale
-Sarthak Mathpati
+1. Pratibha Markad
+2. Atul Ubale
+3. Sarthak Mathpati
