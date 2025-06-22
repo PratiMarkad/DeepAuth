@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # DeepAuth-AI-Powered-Image-Forgery-Detection
 "DeepAuth: AI-Powered Image Forgery Detection" refers to a system designed to identify manipulated or fake images using artificial intelligence, particularly deep learning techniques. In an age where digital images are abundant and editing tools are sophisticated, ensuring the authenticity of visual content is crucial.
 
@@ -21,3 +22,6 @@ To run the web application on Windows, Linux, or Mac, follow these steps:
 1. Pratibha Markad
 2. Atul Ubale
 3. Sarthak Mathpati
+=======
+# DeepAuth
+>>>>>>> 34dab7eb621b6ccc0deb36d542f26bed855ab477
